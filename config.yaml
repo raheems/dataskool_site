@@ -1,6 +1,6 @@
 baseURL: http://something-fresh.org/
 languageCode: en-us
-title: Hugo Fresh Theme
+title: পরিসংখ‍্যান পাঠশালা - School of Statistics
 theme: hugo-fresh
 
 params:
@@ -9,9 +9,9 @@ params:
     sizes: [400,600]
   hero:
     # Main hero title
-    title: Manage. Deploy.
+    title: পরিসংখ‍্যান পাঠশালা
     # Hero subtitle (optional)
-    subtitle: Lorem ipsum sit dolor amet is dummy text used by the typography industry
+    subtitle: পরিসংখ‍্যান ও ডেটা সায়েন্সের সহজবোধ‍্য বই ও টিউটোরিয়াল
     # Button text
     buttontext: Get started
     # Where the main hero button links to
@@ -30,7 +30,7 @@ params:
   - title: Books
     sublinks:
     - title: পরিসংখ‍্যান পরিচিতি
-      url: https://poripori.dataskool.org
+      url: https://pp.dataskool.org
     - title: ফলিত পরিসংখ‍্যান ও ডেটা সায়েন্স
       url: https://asds.dataskool.org
     # - title: Dropdown item
@@ -79,19 +79,19 @@ params:
     #   - text: App settings
     #     url: /
   section1:
-    title: Great power comes
+    title: পরিসংখ‍্যান পাঠশালা
     subtitle: with great responsibility
     tiles:
-    - title: App builder
+    - title: পরিসংখ‍্যান পরিচিতি
       icon: mouse-globe
-      text: This is some explanatory text that is on two rows
-      url: /
-      buttonText: Free trial
-    - title: Cloud integration
+      text: পরিসংখ‍্যানের প্রাথমিক ধারণা পাওয়ার জন‍্য এই বইটি ভালো হবে।
+      url: https://pp.statskool.org
+      buttonText: চলো
+    - title: ফলিত পরিসংখ‍্যান ও ডেটা সায়েন্স
       icon: laptop-cloud
-      text: This is some explanatory text that is on two rows
+      text: বইটি লেখার কাজ চলছে। কিছুদিনের মধ‍্যেই প্রিভিউ রিলিজ করা হবে ইন-শা-আল্লাহ।
       url: /
-      buttonText: Get started
+      buttonText: বের হলে জানাও
     - title: Add-ons & plugins
       icon: plug-cloud
       text: This is some explanatory text that is on two rows
