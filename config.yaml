@@ -11,13 +11,13 @@ params:
     # Main hero title
     title: পরিসংখ‍্যান পাঠশালা
     # Hero subtitle (optional)
-    subtitle: পরিসংখ‍্যান ও ডেটা সায়েন্সের সহজবোধ‍্য বই ও টিউটোরিয়াল
+    subtitle: পরিসংখ‍্যান ও ডেটা সায়েন্সের বাংলা রিসোর্স
     # Button text
-    buttontext: চলো তাহলে
+    buttontext: সাবস্ক্রাইব ফ্রি
     # Where the main hero button links to
-    buttonlink: "#"
+    buttonlink: "http://eepurl.com/dD8iV1"
     # Hero image (from /images/___)
-    image: illustrations/worker.svg
+    image: illustrations/open-book.svg
     # Footer logos (from /images/logos/clients/___.svg)
     # clientlogos:
     # - systek
@@ -79,24 +79,24 @@ params:
     #   - text: App settings
     #     url: /
   section1:
-    title: পরিসংখ‍্যান পাঠশালা
-    subtitle: with great responsibility
+    title: অতি যত্নে তৈরী করা হচ্ছে ...
+    subtitle: আপডেট পেতে সাবস্ক্রাইব করুন 
     tiles:
     - title: পরিসংখ‍্যান পরিচিতি
       icon: mouse-globe
-      text: পরিসংখ‍্যানের প্রাথমিক ধারণার জন‍্য এই বই
-      url: https://pp.statskool.org
-      buttonText: চলো
-    - title: ফলিত পরিসংখ‍্যান ও ডেটা সায়েন্স
-      icon: laptop-cloud
-      text: বইটি লেখার কাজ চলছে। শীঘ্রই প্রিভিউ রিলিজ হবে ইন-শা-আল্লাহ
-      url: /
+      text: পরিসংখ‍্যানের প্রাথমিক ধারণা
+      url: http://eepurl.com/dD8iV1
       buttonText: বের হলে জানাও
-    - title: Add-ons & plugins
-      icon: plug-cloud
-      text: This is some explanatory text that is on two rows
-      url: /
-      buttonText: Get started
+    - title: R পরিচিতি
+      icon: laptop-cloud
+      text: বাংলায় R সফটওয়‍্যার পরিচিতি
+      url: http://eepurl.com/dD8iV1
+      buttonText: বের হলে জানাও
+    - title: ফলিত পরিসংখ‍্যান ও ডেটা সায়েন্স
+      icon: laptop-globe
+      text: ব‍্যবহারিক পরিসংখ‍্যান ও ডেটা এনালিসিস
+      url: http://eepurl.com/dD8iV1
+      buttonText: বের হলে জানাও
   section2:
     title: You're here because you want the best
     subtitle: And we know it
@@ -151,30 +151,26 @@ params:
       icon: bitbucket
     bulmalogo: true
     product:
-    - text: Discover features
+    - text: আমাদের রিসোর্স
       link: /
-    - text: Why choose our product?
+    - text: রোডম‍্যাপ
       link: /
-    - text: Compare features
-      link: /
-    - text: Our roadmap
-      link: /
-    - text: Request features
-      link: /
-    docs:
-    - text: Get started
-      link: /
-    - text: User guides
-      link: /
-    - text: Admin guide
-      link: /
-    - text: Developers
+    - text: ফিচার রিকোয়েস্ট
       link: /
     blogroll:
-    - text: Latest news
+    - text: লেটেস্ট ব্লগ
       link: /
-    - text: Tech articles
+    - text: টিউটোরিয়াল আর্টিকেল
       link: /
-    - text: Video blog
+    - text: ক‍্যারিয়ার
       link: /
+    docs:
+    - text: সর্বাধিক জিজ্ঞাস‍্য
+      link: /
+    - text: বই লিখতে আগ্রহী
+      link: /
+    - text: যোগাযোগ
+      link: / 
+
+    
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
