@@ -31,7 +31,7 @@ params:
     sublinks:
     - title: পরিসংখ‍্যান পরিচিতি
       url: #
-    - title: ফলিত পরিসংখ‍্যান ও ডেটা সায়েন্স
+    - title: R পরিচিতি
       url: #
     # - title: Dropdown item
     #   url: /
@@ -39,11 +39,11 @@ params:
   #   url: /
   - title: ব্লগ
     url: https://blog.dataskool.org
-  - title: টিউটোরিয়াল
-    url: /
-  - title: Signup
+  # - title: টিউটোরিয়াল
+  #   url: /
+  - title: সাবস্ক্রাইব
     url: http://eepurl.com/dD8iV1
-    button: false
+    button: true
   sidebar:
     # Logo (from /images/logos/___.svg)
     logo: fresh-square
@@ -135,7 +135,7 @@ params:
       img: 3
   footer:
     # Logo (from /images/logos/___)
-    logo: fresh-white-alt.svg
+    logo: ds-logo2.svg
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
     - link: https://github.com/lucperkins/github-fresh
