@@ -17,7 +17,7 @@ params:
     # Where the main hero button links to
     buttonlink: "http://eepurl.com/dD8iV1"
     # Hero image (from /images/___)
-    image: illustrations/open-book.svg
+    image: illustrations/worker1.svg
     # Footer logos (from /images/logos/clients/___.svg)
     # clientlogos:
     # - systek
