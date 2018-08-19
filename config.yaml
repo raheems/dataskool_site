@@ -13,7 +13,7 @@ params:
     # Hero subtitle (optional)
     subtitle: পরিসংখ‍্যান ও ডেটা সায়েন্সের বাংলা রিসোর্স
     # Button text
-    buttontext: সাবস্ক্রাইব ফ্রি
+    buttontext: সাবস্ক্রাইব
     # Where the main hero button links to
     buttonlink: "http://eepurl.com/dD8iV1"
     # Hero image (from /images/___)
@@ -79,7 +79,7 @@ params:
     #   - text: App settings
     #     url: /
   section1:
-    title: অতি যত্নে তৈরী করা হচ্ছে ...
+    title: যত্ন করে তৈরী হচ্ছে ...
     subtitle: আপডেট পেতে সাবস্ক্রাইব করুন 
     tiles:
     - title: পরিসংখ‍্যান পরিচিতি
@@ -138,17 +138,17 @@ params:
     logo: ds-logo2.svg
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
-    - link: https://github.com/lucperkins/github-fresh
+    # - link: https://github.com/
       # Icons are from Font Awesome
-      icon: github
-    - link: https://dribbble.com/#
-      icon: dribbble
-    - link: https://facebook.com/#
+      # icon: github
+    # - link: https://dribbble.com/#
+    #   icon: dribbble
+    - link: https://facebook.com/dataskool
       icon: facebook
-    - link: https://twitter.com/lucperkins
+    - link: https://twitter.com/eraheem
       icon: twitter
-    - link: https://bitbucket.org/#
-      icon: bitbucket
+    # - link: https://bitbucket.org/#
+    #   icon: bitbucket
     bulmalogo: true
     product:
     - text: আমাদের রিসোর্স
