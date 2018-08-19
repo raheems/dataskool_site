@@ -158,12 +158,12 @@ params:
     - text: ফিচার রিকোয়েস্ট
       link: /
     blogroll:
-    - text: লেটেস্ট ব্লগ
-      link: /
-    - text: টিউটোরিয়াল আর্টিকেল
-      link: /
+    - text: ব্লগ আর্কাইভ
+      link: https://blog.dataskool.org/post/
+    - text: ডেটা সায়েন্স
+      link: https://blog.dataskool.org/tags/ডেটা-সায়েন্স/
     - text: ক‍্যারিয়ার
-      link: /
+      link: https://blog.dataskool.org/tags/career/
     docs:
     - text: সর্বাধিক জিজ্ঞাস‍্য
       link: /
